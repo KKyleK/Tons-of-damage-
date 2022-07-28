@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+html {
+    background-color: white;
+}
+
+.row {
+    width:500 px;
+    height:800px;
+}
+
+
+
+#container{
+
+    width:500 px;
+    height:800px;
+    overflow-y:scroll;
+}
